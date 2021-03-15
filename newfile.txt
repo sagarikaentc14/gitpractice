@@ -1,3 +1,4 @@
 hello sagarika
 welcome to git practice class1.
 checking git push.. practice 2
+this line is through git bash added for merge conflict test
