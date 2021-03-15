@@ -6,3 +6,5 @@ this line is added from git hub web browser
 checking git push.. practice 2
 this line is through git bash added for merge conflict test
 
+
+this is created thru cli through branch name branchtest
