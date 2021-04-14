@@ -17,3 +17,6 @@ thi line added on branchtest
 now pull request merge test.
 thi line added on main branch..
 
+
+this test is to check git fetch origin pulls from branch or master
+
