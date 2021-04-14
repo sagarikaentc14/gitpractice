@@ -1,3 +1,7 @@
 this is git practice tutorial for interview.
 testing of adding to git hub through CL
+<<<<<<< Updated upstream
 this is now to check git fetch and git merge
+=======
+this line is added from local repo to test merging and git fetch commands.
+>>>>>>> Stashed changes
